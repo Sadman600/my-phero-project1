@@ -2,6 +2,11 @@ body{
    font-family: verdana;
    margin: 0;
 }
+#h01{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 40px;
+}
 p{
     /* background-color: lightgray; */
     text-align: justify;
@@ -20,7 +25,7 @@ p{
 .flex-container{
     display: flex;
     margin-left: 20px;
-    
+    margin-bottom: 20px;
 }
 .first-section-div{
     /* background-color: lightgray; */
@@ -35,6 +40,13 @@ p{
 .div-box-half-width img{
     width: 70%;
 }
+.div-box-half-width2{
+    width: 30%;
+    padding-left: 4%;
+}
+.div-box-half-width2 img{
+    width: 30%;
+}
 .link-button{
     text-decoration: none;
     background-color:#008CBA;
@@ -44,4 +56,20 @@ p{
     margin: 2px 4px;
     font-weight: 700;
     font-size: 20px;
+}
+.second-section-div{
+    padding: 10px 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
+
+#ssdiv1{
+    background-color: lightgray;
+}
+#ssdiv2{
+    background-color: lightskyblue;
+}
+#ssdiv3{
+    background-color: powderblue;
 }
