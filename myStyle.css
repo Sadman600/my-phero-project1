@@ -8,11 +8,10 @@ body{
     margin-bottom: 40px;
 }
 p{
-    /* background-color: lightgray; */
     text-align: justify;
-    width: 370px;
     padding: 5px;
     margin-top: 30px;
+    margin-right: 15px;
     margin-bottom: 25px;
 }
 .color-section1{
@@ -28,7 +27,6 @@ p{
     margin-bottom: 30px;
 }
 .first-section-div{
-    /* background-color: lightgray; */
     padding-left: 5px;
     border-left: 5px solid seagreen;
     font-size: 30px;
@@ -36,7 +34,6 @@ p{
 .div-box-half-width{
     width: 50%;
     padding-left: 4%;
-    /* margin-bottom: 40px; */
 }
 .div-box-half-width img{
     width: 80%;
@@ -48,17 +45,7 @@ p{
 .div-box-half-width2 img{
     width: 30%;
 }
-/* .div-box-half-width3{
-    width: 50%;
-    padding-left: 4%;
-    margin-top: 30px ;
-    
-}
-.div-box-half-width3 img{
-    width: 60%;
-    height: 400px;
 
-} */
 .link-button{
     text-decoration: none;
     background-color:#008CBA;
@@ -85,12 +72,19 @@ p{
 #ssdiv3{
     background-color: powderblue;
 }
-/* #main-section3{
-    background-image: url("images/shape-1.png");
-    background-repeat: no-repeat;
-    background-position: left top;
-} */
 
 .header-section{
     font-size: 35px;
+}
+
+footer {
+    padding: 3px;
+    background-color: DarkSalmon;
+}
+#myid{
+    text-align: center;
+    color: white;
+    font-family: "Sofia", sans-serif;
+    font-size: 40px;
+    
 }
