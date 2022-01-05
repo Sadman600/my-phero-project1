@@ -25,7 +25,7 @@ p{
 .flex-container{
     display: flex;
     margin-left: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .first-section-div{
     /* background-color: lightgray; */
@@ -36,9 +36,10 @@ p{
 .div-box-half-width{
     width: 50%;
     padding-left: 4%;
+    /* margin-bottom: 40px; */
 }
 .div-box-half-width img{
-    width: 70%;
+    width: 80%;
 }
 .div-box-half-width2{
     width: 30%;
@@ -47,6 +48,17 @@ p{
 .div-box-half-width2 img{
     width: 30%;
 }
+/* .div-box-half-width3{
+    width: 50%;
+    padding-left: 4%;
+    margin-top: 30px ;
+    
+}
+.div-box-half-width3 img{
+    width: 60%;
+    height: 400px;
+
+} */
 .link-button{
     text-decoration: none;
     background-color:#008CBA;
@@ -72,4 +84,13 @@ p{
 }
 #ssdiv3{
     background-color: powderblue;
+}
+/* #main-section3{
+    background-image: url("images/shape-1.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+} */
+
+.header-section{
+    font-size: 35px;
 }
