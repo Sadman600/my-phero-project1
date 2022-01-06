@@ -79,12 +79,11 @@ p{
 
 footer {
     padding: 3px;
-    background-color: DarkSalmon;
+    background-color: black;
 }
 #myid{
     text-align: center;
     color: white;
     font-family: "Sofia", sans-serif;
-    font-size: 40px;
-    
+    font-size: 40px; 
 }
